@@ -1,0 +1,65 @@
+D:\Projects\C# Projects\CollzProject\PIDrone\PIDrone\bin\Debug\PIDrone.exe.config
+D:\Projects\C# Projects\CollzProject\PIDrone\PIDrone\bin\Debug\PIDrone.exe
+D:\Projects\C# Projects\CollzProject\PIDrone\PIDrone\bin\Debug\PIDrone.pdb
+D:\Projects\C# Projects\CollzProject\PIDrone\PIDrone\bin\Debug\CircularProgressBar.dll
+D:\Projects\C# Projects\CollzProject\PIDrone\PIDrone\bin\Debug\OpenTK.dll
+D:\Projects\C# Projects\CollzProject\PIDrone\PIDrone\bin\Debug\OpenTK.GLControl.dll
+D:\Projects\C# Projects\CollzProject\PIDrone\PIDrone\bin\Debug\WinFormAnimation.dll
+D:\Projects\C# Projects\CollzProject\PIDrone\PIDrone\bin\Debug\CircularProgressBar.xml
+D:\Projects\C# Projects\CollzProject\PIDrone\PIDrone\bin\Debug\OpenTK.pdb
+D:\Projects\C# Projects\CollzProject\PIDrone\PIDrone\bin\Debug\OpenTK.xml
+D:\Projects\C# Projects\CollzProject\PIDrone\PIDrone\bin\Debug\OpenTK.GLControl.xml
+D:\Projects\C# Projects\CollzProject\PIDrone\PIDrone\bin\Debug\WinFormAnimation.xml
+D:\Projects\C# Projects\CollzProject\PIDrone\PIDrone\obj\Debug\PIDrone.CustomButton.resources
+D:\Projects\C# Projects\CollzProject\PIDrone\PIDrone\obj\Debug\PIDrone.MainActivity.resources
+D:\Projects\C# Projects\CollzProject\PIDrone\PIDrone\obj\Debug\PIDrone.Properties.Resources.resources
+D:\Projects\C# Projects\CollzProject\PIDrone\PIDrone\obj\Debug\PIDrone.csproj.GenerateResource.Cache
+D:\Projects\C# Projects\CollzProject\PIDrone\PIDrone\obj\Debug\PIDrone.exe
+D:\Projects\C# Projects\CollzProject\PIDrone\PIDrone\obj\Debug\PIDrone.pdb
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\bin\Debug\PIDrone.exe.config
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\bin\Debug\PIDrone.exe
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\bin\Debug\PIDrone.pdb
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\bin\Debug\CircularProgressBar.dll
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\bin\Debug\ContentLibrary.dll
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.dll
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\bin\Debug\Microsoft.Xna.Framework.dll
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\bin\Debug\Transitions.dll
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\bin\Debug\WinFormAnimation.dll
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\bin\Debug\ContentLibrary.pdb
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\bin\Debug\CircularProgressBar.xml
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\bin\Debug\Microsoft.Xna.Framework.xml
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\bin\Debug\Microsoft.Xna.Framework.Content.Pipeline.xml
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\bin\Debug\Microsoft.Xna.Framework.Game.xml
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\bin\Debug\Microsoft.Xna.Framework.Graphics.xml
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\bin\Debug\Transitions.pdb
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\bin\Debug\WinFormAnimation.xml
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\obj\Debug\PIDrone.csprojResolveAssemblyReference.cache
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\obj\Debug\PIDrone.CustomButton.resources
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\obj\Debug\PIDrone.MainActivity.resources
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\obj\Debug\PIDrone.Properties.Resources.resources
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\obj\Debug\PIDrone.csproj.GenerateResource.Cache
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\obj\Debug\PIDrone.exe
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\obj\Debug\PIDrone.pdb
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\bin\Debug\Content\Fonts\MainFont.xnb
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\bin\Debug\Content\Model\DroneFull.xnb
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\bin\Debug\Content\Image\GUI\1_HUD\Pointer.xnb
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\bin\Debug\Content\Image\GUI\1_HUD\AngleBar.xnb
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\bin\Debug\Content\Image\GUI\1_HUD\Bar_H.xnb
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\bin\Debug\Content\Image\GUI\1_HUD\Bar_V.xnb
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\bin\Debug\Content\Image\GUI\1_HUD\TestBlackSpace.xnb
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\bin\Debug\Content\Image\GUI\1_HUD\Navigator.xnb
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\bin\Debug\Content\Image\GUI\1_HUD\BackTextureNavigation.xnb
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\bin\Debug\Content\Image\GUI\1_HUD\Nut.xnb
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\bin\Debug\Content\Image\GUI\1_HUD\NavigatorPin.xnb
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\bin\Debug\Content\Fonts\QuartzMS.xnb
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\bin\Debug\Content\Fonts\ArialFont.xnb
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\bin\Debug\Content\Image\GUI\1_HUD\CheckUncheckList.xnb
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\bin\Debug\Content\Fonts\BrowalliaNew.xnb
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\bin\Debug\Content\Fonts\Haettenschweiler.xnb
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\bin\Debug\ManagedWifi.dll
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\bin\Debug\Renci.SshNet.dll
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\bin\Debug\Renci.SshNet.xml
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\bin\Debug\MjpegProcessorXna4.dll
+D:\Projects\CSharpProject\CollzProject\PIDrone\PIDrone\bin\Debug\Content\Image\GUI\1_HUD\Back.xnb

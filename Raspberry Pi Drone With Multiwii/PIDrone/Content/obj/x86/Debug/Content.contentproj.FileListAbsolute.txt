@@ -1,0 +1,1 @@
+D:\Projects\CSharpProject\CollzProject\PIDrone\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
