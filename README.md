@@ -16,7 +16,7 @@ Raspberry pi drone with multiwii flight controller.
 	<li>.net 4.1 + framework</li>
 </ol>
 
-<h5>Device Lists</h5>
+<h5>Device & Parts Lists</h5>
 <ol>
 	<li>Raspberry Pi 3 B+</li>
 	<li>Multiwii Afro 32 Rev 6 Flight controller</li>
